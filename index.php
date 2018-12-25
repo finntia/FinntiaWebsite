@@ -8,7 +8,7 @@
 <!--<![endif]-->
 <head>
 
-	<!-- Basic Page Needs -->
+	<!-- Meta tags -->
 	<meta charset="utf-8">
 	<title>Shopify | Magento2 | Custom Software Development | Mobile Apps | Chat Bots Software Development Company based in Helsinki, Finland | Finntia Solution</title>
 
