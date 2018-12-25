@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.finntia.io/sitemap-io.xml
+
+Sitemap: https://www.finntia.com/sitemap-com.xml
