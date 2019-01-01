@@ -160,62 +160,70 @@
 					<div class="col-md-12">
 						<div class="owl-carousel">
 							<div>
-								<img src="imgs/tech/ic_ajax.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_androidstudio.png" class="" alt="">
+								<!--<img src="imgs/tech/ic_ajax.png" alt="Ajax"> <br>-->
+								<img src="imgs/tech/ic_androidstudio.png" alt="Android"> <br>
+								<img src="imgs/tech/ic_angularjs.png" alt="Angular"> 
+							</div>
+							<!-- <div>
+								
+								<img src="imgs/tech/ic_bootstrap.png" alt="BootStrap">
+							</div> -->
+							<div>
+								<img src="imgs/tech/ic_codeigniter.png" alt="Code Igniter"> <br>
+								<img src="imgs/tech/ic_java.png" alt="Java">
+								<!-- <img src="imgs/tech/ic_css.png" alt="CSS"> -->
+							</div>
+							<!-- <div>
+								 <img src="imgs/tech/ic_drupal.png" alt="Drupal"> <br> 
+								<img src="imgs/tech/ic_html.png" alt="HTML">
+							</div> -->
+							<!-- <div>
+								<img src="imgs/tech/ic_invision.png" alt="Invision"> <br>
+								
+							</div> -->
+							<!-- <div>
+								<img src="imgs/tech/ic_javascript.png" alt="Javascript"> <br>
+								
+							</div> -->
+							<div>
+								<!-- <img src="imgs/tech/ic_jquery.png" alt="JQuery"> <br> -->
+								<img src="imgs/tech/ic_joomla.png" alt="Joomla"> <br>
+								<img src="imgs/tech/ic_laravel.png" alt="Laravel"> 
+								
 							</div>
 							<div>
-								<img src="imgs/tech/ic_angularjs.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_bootstrap.png" class="" alt="">
+								<img src="imgs/tech/ic_magento.png" alt="Magento"> <br>
+								<img src="imgs/tech/ic_nodejs.png" alt="Node JS"> 
 							</div>
 							<div>
-								<img src="imgs/tech/ic_codeigniter.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_css.png" class="" alt="">
+								<img src="imgs/tech/ic_opencart.png" alt="Open Cart"> <br>
+								<img src="imgs/tech/ic_objectivec.png" alt="Objective C"> 
+								
 							</div>
 							<div>
-								<img src="imgs/tech/ic_drupal.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_html.png" class="" alt="">
+								<!-- <img src="imgs/tech/ic_phonegap.png" alt="Phone Gap"> <br> -->
+								<img src="imgs/tech/ic_php.png" alt="PHP"> <br>
+								<img src="imgs/tech/ic_react.png" alt="React">
 							</div>
 							<div>
-								<img src="imgs/tech/ic_invision.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_java.png" class="" alt="">
+								
+								<img src="imgs/tech/ic_shopify.png" alt="Shopify"> <br>
+								<img src="imgs/tech/ic_swift.png" alt="Swift">
 							</div>
 							<div>
-								<img src="imgs/tech/ic_javascript.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_joomla.png" class="" alt="">
+								
+								<img src="imgs/tech/ic_woocommerce.png" alt="WooCommerce"> <br>
+								<img src="imgs/tech/ic_wordpress.png" alt="Wordpress">
 							</div>
-							<div>
-								<img src="imgs/tech/ic_jquery.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_laravel.png" class="" alt="">
-							</div>
-							<div>
-								<img src="imgs/tech/ic_magento.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_nodejs.png" class="" alt="">
-							</div>
-							<div>
-								<img src="imgs/tech/ic_objectivec.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_opencart.png" class="" alt="">
-							</div>
-							<div>
-								<img src="imgs/tech/ic_phonegap.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_php.png" class="" alt="">
-							</div>
-							<div>
-								<img src="imgs/tech/ic_react.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_shopify.png" class="" alt="">
-							</div>
-							<div>
-								<img src="imgs/tech/ic_swift.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_woocommerce.png" class="" alt="">
-							</div>
-							<div>
-								<img src="imgs/tech/ic_wordpress.png" class="" alt=""> <br>
-								<img src="imgs/tech/ic_zend.png" class="" alt="">
-							</div>
+							<!-- <div>
+								
+								<img src="imgs/tech/ic_zend.png" alt="Zend">
+							</div> -->
 
-							<div>
-                                                                <img src="imgs/tech/ic_sketch.png" class="" alt=""> <br>
-                                                                <img src="imgs/tech/ic_magento.png" class="" alt="">	
-                                                        </div>
+							<!-- <div>
+                            	<img src="imgs/tech/ic_sketch.png" alt="Sketch"> <br>
+                                <img src="imgs/tech/ic_magento.png" alt="Magento">	
+                            </div> -->
 
 						</div>
 					</div>

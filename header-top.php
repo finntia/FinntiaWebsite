@@ -13,7 +13,7 @@
 <!-- Bootstrap Core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/style.min.css" rel="stylesheet">
-<link href="css/font-awesome.css" rel="stylesheet">
+<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
 
 <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
