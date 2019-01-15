@@ -409,7 +409,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6">
-					<p>Copyright © 2018 Finntia. All rights reserved.</p>
+					<p>Copyright © 2019 Finntia. All rights reserved.</p>
 				</div>
 				<div class="col-sm-6">
 					<p class="text-right"><a href="https://www.facebook.com/finntiasolution/" target="_blank"><i class="zmdi zmdi-facebook-box zmdi-hc-lg"></i></a> &nbsp; <a href="https://twitter.com/FinntiaSolution" target="_blank"><i class="zmdi zmdi-twitter-box zmdi-hc-lg"></i></a> &nbsp; <a href="https://www.linkedin.com/company/finntia/" target="_blank"><i class="zmdi zmdi-linkedin-box zmdi-hc-lg"></i></a> &nbsp; <a href="https://www.instagram.com/finntiasolution/" target="_blank"><i class="zmdi zmdi-instagram zmdi-hc-lg"></i></a>
